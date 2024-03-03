@@ -1,4 +1,4 @@
-Main.java içerisine yazılan sporcu bilgileri ile birlikte boks oyunu çalışacaktır.
+Main.java içerisine yazılan sporcu bilgileri ve ring bilgileri ile birlikte boks oyunu çalışacaktır.
 
 Gereken bilgiler; isim, vuruş gücü, sağlık, ağırlık, kaçınma becerisi şekildedir.
 Fighter marc = new Fighter("Marc" , 15 , 100, 90, 40);
